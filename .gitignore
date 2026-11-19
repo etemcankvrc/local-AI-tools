@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# App data / outputs
+*.srt
+!sample*.srt
+ocr_models/
+*.log
+startup_error.log
+
+# Models / binaries (do NOT commit large binaries)
+*.exe
+*.dll
+*.zip
+ffmpeg.exe
+deno.exe
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,17 @@
+# AI Local Translator — Open-Source (SRT + Video) Edition
+# Python 3.9+  (tested on 3.11)
+#
+# pip install -r requirements.txt
+#
+requests>=2.31
+charset-normalizer>=3.0
+Pillow>=10.0
+numpy>=1.24
+faster-whisper>=1.1
+yt-dlp>=2025.11.12
+yt-dlp-ejs
+
+# --- NOT pip packages — install separately ---
+# Ollama        : https://ollama.com          (runs the local AI translation models)
+# FFmpeg        : https://ffmpeg.org           (must be on PATH; used to decode audio/video)
+# Deno (optional): https://deno.com            (only needed for some YouTube downloads via yt-dlp)
