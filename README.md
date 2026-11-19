@@ -27,6 +27,17 @@ Unlock **Live Web/Manga OCR** and **Multi-Video/Audio GPU Translation**:
 
 ---
 
+## 🔓 Open Source (Source Code)
+
+The core **SRT translation** and **video-to-SRT** engine is **open source** under the **[Apache License 2.0](LICENSE)**.
+
+👉 **[`srt_video_translator.py`](srt_video_translator.py)** — standalone, no API keys, runs on local **Ollama + Whisper**.
+📖 Setup & usage: **[README_opensource.md](README_opensource.md)**
+
+> This open-source edition covers **SRT translation** and **video / audio → subtitle generation**. Live web-page translation and manga / webtoon OCR are part of the PRO edition and are not included in the source code.
+
+---
+
 ## 🇹🇷 Türkçe Açıklama ve Kurulum
 
 **AI Local Translator**, bilgisayarınızdaki yerel **Ollama** yapay zeka modellerini kullanarak internet kotası veya karakter sınırı olmadan çeviri yapmanızı sağlar.
@@ -37,3 +48,8 @@ Unlock **Live Web/Manga OCR** and **Multi-Video/Audio GPU Translation**:
 
 🧡 **Canlı Manga/Webtoon Balon OCR** ve **Çoklu Video/Ses (GPU Whisper) Çevirisi** özelliklerini açmak için:
 👉 **[Patreon PRO Aboneliği Alın](https://www.patreon.com/GTEtemcan)**
+
+---
+
+### 🔓 Açık Kaynak (Kaynak Kod)
+Temel **SRT çevirisi** ve **video→SRT** motoru **[Apache-2.0](LICENSE)** lisansıyla **açık kaynaktır**: 👉 **[`srt_video_translator.py`](srt_video_translator.py)** (kurulum ve kullanım: **[README_opensource.md](README_opensource.md)**). Canlı web çevirisi ve manga/webtoon OCR özellikleri PRO sürüme özeldir; kaynak kodda yer almaz.
