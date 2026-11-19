@@ -17,7 +17,7 @@
 | **All Local Ollama Text Models (`Qwen2.5`, `Gemma2`, `Aya`)** | ✅ Included | ✅ Included |
 | **Built-in Model Downloader & Manager** | ✅ Included | ✅ Included |
 | **Live Web Page & Novel Translation Browser** | ❌ Locked | ✅ **Unlocked** |
-| **Manga & Webtoon Speech Bubble OCR (Google Lens Engine)** | ❌ Locked | ✅ **Unlocked** |
+| **Manga & Webtoon Speech Bubble OCR (RapidOCR Engine)** | ❌ Locked | ✅ **Unlocked** |
 | **Multi-Video / Audio & Playlist Downloader + Auto SRT** | ❌ Locked | ✅ **Unlocked** |
 | **NVIDIA CUDA (GPU) Whisper Speech-to-Text Acceleration** | ❌ Locked | ✅ **Unlocked** |
 
