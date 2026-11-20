@@ -38,6 +38,14 @@ The core **SRT translation** and **video-to-SRT** engine is **open source** unde
 
 ---
 
+## 🎨 AI Local Image Studio (Open Source)
+
+**100% local AI image generator with built-in LoRA training** — Stable Diffusion 1.5 / SDXL, Z-Image-Turbo and FLUX.2 [klein] on your own PC, with a local LLM prompt writer, face & hand fixer, video-to-dataset import and a training window (style, place, subject, anatomy, face). UI in English, Türkçe, 한국어 and Deutsch.
+
+👉 **[`ai-local-image-studio/`](ai-local-image-studio/)** — source code, setup and usage (Apache-2.0).
+
+---
+
 ## 🇹🇷 Türkçe Açıklama ve Kurulum
 
 **AI Local Translator**, bilgisayarınızdaki yerel **Ollama** yapay zeka modellerini kullanarak internet kotası veya karakter sınırı olmadan çeviri yapmanızı sağlar.
@@ -50,6 +58,9 @@ The core **SRT translation** and **video-to-SRT** engine is **open source** unde
 👉 **[Patreon PRO Aboneliği Alın](https://www.patreon.com/GTEtemcan)**
 
 ---
+
+### 🎨 AI Local Image Studio (Açık Kaynak)
+%100 yerel yapay zeka görsel oluşturucu ve LoRA eğitimi (stil, mekân, konu, anatomi, yüz; videodan veri seti). 👉 **[`ai-local-image-studio/`](ai-local-image-studio/)** — kaynak kod, kurulum ve kullanım: **[BENIOKU.md](ai-local-image-studio/BENIOKU.md)** (Apache-2.0).
 
 ### 🔓 Açık Kaynak (Kaynak Kod)
 Temel **SRT çevirisi** ve **video→SRT** motoru **[Apache-2.0](LICENSE)** lisansıyla **açık kaynaktır**: 👉 **[`srt_video_translator.py`](srt_video_translator.py)** (kurulum ve kullanım: **[README_opensource.md](README_opensource.md)**). Canlı web çevirisi ve manga/webtoon OCR özellikleri PRO sürüme özeldir; kaynak kodda yer almaz.

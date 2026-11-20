@@ -25,3 +25,7 @@ deno.exe
 Thumbs.db
 .idea/
 .vscode/
+
+# AI Local Image Studio — per-user files written next to the program
+ai-local-image-studio/location.json
+ai-local-image-studio/settings.json
